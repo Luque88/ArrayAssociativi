@@ -1,0 +1,20 @@
+ [
+ {
+        "cognome": "Rossi",
+        "nome": "Luigi",
+        "email": "l.rossi@email.it"
+    },
+    
+    {
+        "cognome": "Bianchi",
+        "nome": "Franca",
+        "email": "franca@libero.it"
+    },
+    
+    {
+        "cognome": "Verdi",
+        "nome": "Giuseppe",
+        "email": "beppegreen@libero.it"
+    }
+    
+ ]
